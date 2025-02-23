@@ -2,17 +2,17 @@
 
 ### 🚀 Frontend Engineer | React & React Native Developer ⚛️ | Flutter | JEE | GraphQL | DevOps Enthusiast  
 
-Passionate about building **seamless, interactive, and high-performance** web applications, I specialize in crafting **efficient user experiences** with **React, React Native, and modern web technologies**. I also have experience in **Flutter** for mobile development, **Java Enterprise Edition (JEE)** for backend systems, and **DevOps tools** to streamline development workflows.  
+Passionate about building **seamless, interactive, and high-performance** web applications, I specialize in crafting **efficient user experiences** with **React, React Native, and modern web technologies**. I also have experience in **Flutter** for mobile development, and **DevOps tools** to streamline development workflows.  
 
 With expertise in **complex UI development**, I've worked on projects ranging from **quiz platforms** to **image editing integrations**, always focusing on **clean code, usability, and performance**.  
 
 ## 🔧 Tech Stack & Tools  
-- **Languages:** JavaScript (ES6+), TypeScript, Java (JEE)  
+- **Languages:** JavaScript (ES6+), TypeScript 
 - **Frontend:** React, React Native, Next.js, Redux, TailwindCSS, Ant Design, Framer Motion  
 - **Mobile Development:** React Native, Flutter  
 - **Styling:** SCSS, CSS  
 - **Editor & Image Tools:** CKEditor, Draft.js, Fabric.js, Toast UI Image Editor  
-- **Backend & APIs:** JEE, Firebase, REST APIs, GraphQL  
+- **Backend & APIs:** REST APIs, GraphQL  
 - **DevOps & Deployment:** Docker, Docker Compose, Kubernetes, Jenkins  
 - **Others:** Web Scraping (BeautifulSoup), Performance Optimization, Creating Custom Packages  
 
