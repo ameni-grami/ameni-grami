@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Grami Ameni  
 
-### 🚀 Frontend Engineer | React & React Native Developer ⚛️ | Flutter | JEE | GraphQL | DevOps Enthusiast  
+### 🚀 Frontend Engineer | React & React Native Developer ⚛️ | Flutter | GraphQL | DevOps Enthusiast  
 
 Passionate about building **seamless, interactive, and high-performance** web applications, I specialize in crafting **efficient user experiences** with **React, React Native, and modern web technologies**. I also have experience in **Flutter** for mobile development, and **DevOps tools** to streamline development workflows.  
 
