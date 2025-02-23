@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! 👋 I'm Grami Ameni  
 
-<!--
-**ameni-grami/ameni-grami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Frontend Engineer | React & React Native Developer ⚛️ | Flutter | JEE | GraphQL | DevOps Enthusiast  
 
-Here are some ideas to get you started:
+Passionate about building **seamless, interactive, and high-performance** web applications, I specialize in crafting **efficient user experiences** with **React, React Native, and modern web technologies**. I also have experience in **Flutter** for mobile development, **Java Enterprise Edition (JEE)** for backend systems, and **DevOps tools** to streamline development workflows.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With expertise in **complex UI development**, I've worked on projects ranging from **quiz platforms** to **image editing integrations**, always focusing on **clean code, usability, and performance**.  
+
+## 🔧 Tech Stack & Tools  
+- **Languages:** JavaScript (ES6+), TypeScript, Java (JEE)  
+- **Frontend:** React, React Native, Next.js, Redux, TailwindCSS, Ant Design, Framer Motion  
+- **Mobile Development:** React Native, Flutter  
+- **Styling:** SCSS, CSS  
+- **Editor & Image Tools:** CKEditor, Draft.js, Fabric.js, Toast UI Image Editor  
+- **Backend & APIs:** JEE, Firebase, REST APIs, GraphQL  
+- **DevOps & Deployment:** Docker, Docker Compose, Kubernetes, Jenkins  
+- **Others:** Web Scraping (BeautifulSoup), Performance Optimization, Creating Custom Packages  
+
+## 🔥 What I Love Working On  
+- **⚡ Performance Optimization** – Making apps fast and efficient  
+- **🎨 UI/UX Improvements** – Creating smooth and intuitive interfaces  
+- **🛠️ Custom CKEditor & Image Editing Plugins** – Pushing boundaries of content editing  
+- **📦 Building & Maintaining Packages** – Creating reusable solutions for developers  
+- **🔗 GraphQL & API Design** – Crafting efficient, scalable data-fetching solutions  
+- **🚀 DevOps & CI/CD** – Automating deployments and optimizing development workflows  
+
+## 📫 Let's Connect!  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ameni-grami/)  
+- 📧 [Email](amenigrami489@gmail.com)  
+- 🌐 [Portfolio](https://ameni-grami.netlify.app/)  
+
+🚀 **Let’s build something awesome together!**
